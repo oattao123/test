@@ -1,0 +1,95 @@
+.login-card {
+    border-radius: 5px;
+    background: #f5f4f4;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5);
+    width: 632px;
+    height: 440px;
+    margin: 0 auto;
+    margin-top: 130px;
+    font-family: Nunito;
+  }
+  
+  div h2 {
+    color: #000;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding: 25px;
+  }
+  div.form-group {
+    color: #000;
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 559px;
+    height: 114px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    margin-left: 54px;
+  }
+  
+  .form-control {
+    border: 1px solid #e7e7e7;
+    border-radius: 5px;
+    width: 525px;
+    height: 57px;
+  }
+  input {
+    color: rgba(0, 0, 0, 0.5);
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 525px;
+    margin-bottom: 26px;
+    padding-left: 30px;
+  }
+  
+  .submitbtn {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  
+  }
+  #btn{
+      border-radius: 30px;
+  background: #B52245;
+  width: 162px;
+  height: 57px;
+  flex-shrink: 0;
+  border: 1px solid #B52245;
+  
+  color: #FFF;
+  text-align: center;
+  font-family: Nunito;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  }
+  h3{
+  color: #000;
+  font-family: Nunito;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-decoration-line: underline;
+  text-align: center;
+  text-decoration: none;
+  padding: 5px;
+  }
+  ::placeholder {
+   
+    font-size: 1em;
+    color: mintcream;
+    
+    padding: 10px;
+  }

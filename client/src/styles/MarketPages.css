@@ -1,0 +1,18 @@
+.box-1 {
+    width: 615px;
+height: 259px;
+flex-shrink: 0;
+box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+border-radius: 5px;
+background-color: rgba(103, 103, 103, 0.2);
+}
+
+
+.box-container{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    
+
+
+}
